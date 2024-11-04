@@ -1,4 +1,4 @@
-cd C:\Users\adeli\Desktop\rage-app
+
 
 rage -p -o b.txt a.txt        encrypts with password
 
